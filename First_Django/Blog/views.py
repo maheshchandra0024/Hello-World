@@ -6,7 +6,7 @@ hey = [
 	{
 		"Year" : "2004",
 		"Make" : "HONDA",
-		"Model": "ACCORD COUPE"
+		"Model": "ACCORD"
 	}
 ]
 def Home(request):
