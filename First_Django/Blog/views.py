@@ -5,8 +5,8 @@ from django.http import HttpResponse
 hey = [
 	{
 		"Year" : "2002",
-		"Make" : "Toyota",
-		"Model": "Camry"
+		"Make" : "TOYOTA",
+		"Model": "CAMRY LE"
 	}
 ]
 def Home(request):
