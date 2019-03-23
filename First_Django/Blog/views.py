@@ -9,8 +9,9 @@ hey = [
 		"Model": "CENTURY"
 	}
 ]
+
 def Home(request):
 
-	context = {'k':hey}
+	context = {'ke':hey}
 	return render(request,'Home.html',context)
 
