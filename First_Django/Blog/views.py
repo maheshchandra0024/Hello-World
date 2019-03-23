@@ -11,7 +11,6 @@ hey = [
 ]
 
 def Home(request):
-
-	context = {'ke':hey}
+    context = {'ke':hey}
 	return render(request,'Home.html',context)
 
