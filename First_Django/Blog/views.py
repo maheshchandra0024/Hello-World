@@ -4,11 +4,12 @@ from django.http import HttpResponse
 # Create your views here.
 hey = [
 	{
-		"Year" : "2020",
+		"Year" : "2012",
 		"Make" : "BUICK",
 		"Model": "CENTURY"
 	}
 ]
+
 
 def Home(request):
 	context = {'ke':hey}
