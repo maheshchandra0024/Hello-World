@@ -4,9 +4,9 @@ from django.http import HttpResponse
 # Create your views here.
 hey = [
 	{
-		"Year" : "2032",
+		"Year" : "2018",
 		"Make" : "CHEVROLET",
-		"Model": "PAMPALA"
+		"Model": "DOMPALA"
 	}
 ]
 
