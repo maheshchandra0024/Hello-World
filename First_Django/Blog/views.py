@@ -6,7 +6,7 @@ hey = [
 	{
 		"Year" : "2012",
 		"Make" : "CHEVROLET",
-		"Model": "IMPALA"
+		"Model": "PAMPALA"
 	}
 ]
 
